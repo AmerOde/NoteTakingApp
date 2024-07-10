@@ -37,11 +37,6 @@ NoteTakingApp is a simple and efficient note-taking application built for Androi
 1. Connect an Android device or start an emulator.
 2. Click the "Run" button in Android Studio.
 
-### Contributing
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 - **Name:** Amer Odeh
